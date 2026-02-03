@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**framer-dev/framer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 QA Tester | Software Quality Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate **QA Tester** focused on ensuring software quality through **manual and automated testing**. I enjoy finding bugs, improving user experience, and helping teams deliver reliable, high-quality products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+- Manual Testing (Functional, Regression, Smoke, Sanity)
+- Black Box & White Box Testing
+- Writing Test Cases & Test Scenarios
+- Bug Reporting & Tracking
+- Learning Test Automation
+
+
+## 🛠️ Tools & Skills
+- Manual Testing
+- Test Case Design
+- Bug Tracking (Jira / similar tools)
+- Git & GitHub
+- Basics of Automation Testing (Selenium – learning)
+- SDLC & STLC Knowledge
+
+
+## 📚 Currently Learning
+- Automation Testing
+- Selenium with Java/Python
+- API Testing
+- Software Development Best Practices
+
+
+## 🎯 Goal
+To grow into a **skilled QA Automation Engineer** and contribute to building bug-free, user-friendly software.
+
+
+## 📫 Let’s Connect
+- GitHub: [your-github-username]
+- LinkedIn: Fajana Feranmi
+
+---
+
+⭐ *Always testing, always improving.*
